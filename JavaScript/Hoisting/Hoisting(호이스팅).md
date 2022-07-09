@@ -2,8 +2,6 @@
 
 코드가 실행되기전에 변수나 함수를 미리 메모리에 할당하는 것을 의미
 
----
-
 ### 호이스팅 대상
 
 - 변수: `var`, `let`, `const`
@@ -55,4 +53,8 @@ function fn() {
   var variable;
   variable = "hello";
 }
+```
+
+```js
+printName("yujin");
 ```
