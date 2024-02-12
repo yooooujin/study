@@ -1,4 +1,4 @@
-# 🤓 STUDY
+# 🤓 Study
 
 > ### Javascript
 
